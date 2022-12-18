@@ -13,7 +13,7 @@ const config: DocsThemeConfig = {
   </>
   ),
   footer: {
-    text: 'Timothy Ngoi',
+    text: `Timothy Ngoi's Docs`,
   },
 }
 
