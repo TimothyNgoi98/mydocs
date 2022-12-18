@@ -2,6 +2,8 @@ import React from 'react'
 import { DocsThemeConfig } from 'nextra-theme-docs'
 
 const config: DocsThemeConfig = {
+  project: { link: 'https://github.com/TimothyNgoi98' },
+  docsRepositoryBase: 'https://github.com/TimothyNgoi98/mydocs',
   logo: (
     <>
     <span style={{ marginLeft: '.4em', fontWeight: 700 }}>HomeGround &nbsp;</span>
@@ -10,15 +12,8 @@ const config: DocsThemeConfig = {
     </span>
   </>
   ),
-  project: {
-    link: 'https://github.com/shuding/nextra-docs-template',
-  },
-  chat: {
-    link: 'https://discord.com',
-  },
-  docsRepositoryBase: 'https://github.com/shuding/nextra-docs-template',
   footer: {
-    text: 'Nextra Docs Template',
+    text: 'Timothy Ngoi',
   },
 }
 
