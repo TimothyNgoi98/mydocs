@@ -4,8 +4,8 @@ import { DocsThemeConfig } from 'nextra-theme-docs'
 const config: DocsThemeConfig = {
   logo: (
     <>
-    <span className="mr-2 font-extrabold hidden md:inline">HomeGround</span>
-    <span className="text-gray-600 font-normal hidden md:inline">
+    <span style={{ marginLeft: '.4em', fontWeight: 800 }}>HomeGround</span>
+    <span>
       Tim's Personal Docs
     </span>
   </>
