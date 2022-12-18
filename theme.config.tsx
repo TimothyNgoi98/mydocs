@@ -4,9 +4,9 @@ import { DocsThemeConfig } from 'nextra-theme-docs'
 const config: DocsThemeConfig = {
   logo: (
     <>
-    <span style={{ marginLeft: '.4em', fontWeight: 800 }}>HomeGround</span>
+    <span style={{ marginLeft: '.4em', fontWeight: 700 }}>HomeGround &nbsp;</span>
     <span>
-      Tim's Personal Docs
+      Tim's Docs
     </span>
   </>
   ),
